@@ -2,16 +2,16 @@
 
 This is a web app that allows users to submit tickets, and admins to respond to them.
 
-###Current features:
+### Current features:
 - sign in page
 
-###Future features:
+### Future features:
 - database integration (sign in page now works)
 - ticket submission form
 - live chat feature
 - sms and email alerts
 
-###Dependencies:
+### Dependencies:
 
 
 # Resources
