@@ -1,0 +1,34 @@
+{
+  "name": "ticketingapp-1.0.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-generator": "^4.16.0",
+    "express-session": "^1.15.6",
+    "handlebars": "^4.1.1",
+    "nexmo": "^2.4.1",
+    "nodemailer": "^5.1.1",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "request": "^2.88.0",
+    "smpp": "^0.3.1",
+    "supertest": "^4.0.2",
+    "unirest": "^0.6.0",
+    "uuid": "^3.3.2",
+    "yargs": "^13.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}

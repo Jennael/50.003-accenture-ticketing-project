@@ -1,0 +1,14 @@
+1. 
+npm install --global mocha
+npm install --save-dev mocha
+npm install chai
+
+2. change this is package.json
+
+"scripts": {
+    "test": "mocha"
+  }
+
+
+
+
